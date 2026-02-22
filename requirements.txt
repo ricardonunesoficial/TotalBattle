@@ -1,0 +1,5 @@
+mss
+opencv-python
+pytesseract
+google-cloud-firestore
+python-dotenv
